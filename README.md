@@ -5,7 +5,6 @@ This repository showcases my Power BI dashboards focused on business intelligenc
 
 ## Repository Structure
 Each project folder contains:
-- Power BI report file (.pbix)
 - Exported PDF or static screenshots for quick viewing
 - Project insights and findings summary
 - Data source details
@@ -20,7 +19,7 @@ Each project folder contains:
 - Performance optimization for large datasets
 
 ## How To Use
-1. Download the .pbix file from the project folder
+1. Follow the link provided in each Project Readme
 2. Open it in Power BI Desktop (latest version recommended)
 3. Explore filters, pages, bookmarks, and cross-highlights
 
@@ -28,8 +27,7 @@ Each project folder contains:
 1. Sales and Profitability Dashboard
 2. HR Attrition and Workforce Insights Dashboard
 3. Finance KPI Tracking Report
-4. Nigerian Oil & Gas Production Dashboard
-5. Customer Segmentation and Retention Report
+4. Customer Segmentation and Retention Report
 
 ## Data Sources
 Datasets used are either public, synthetic, or anonymized business datasets for demonstration purposes.
